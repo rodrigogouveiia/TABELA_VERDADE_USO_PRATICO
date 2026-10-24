@@ -1,6 +1,6 @@
 # Sistema de Validação Bancária com Tabela Verdade
 
-Projeto desenvolvido em Python para demonstração prática do conceito de **Lógica Proposicional**, na construção de uma **Tabela Verdade Completa** com 8 combinações. 3 variáveis proposicionais ( `P` `Q` `R` ). Cada variável pode assumir dois estados lógicos( `True` ou `False`), resultando no calculo matemático ($2^3$) = `8 combinações`.
+Projeto desenvolvido em Python para demonstração prática do conceito de **Lógica Proposicional**, na construção de uma **Tabela Verdade Completa** com 8 combinações. 3 variáveis proposicionais ( `P` `Q` `R` ). Cada variável pode assumir dois estados lógicos ( `True` ou `False`), resultando no calculo matemático ($2^3$) = `8 combinações`.
 
 ## 🔒 Variáveis Proposicionais e Regras
 
