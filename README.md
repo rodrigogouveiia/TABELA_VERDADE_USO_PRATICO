@@ -1,8 +1,8 @@
-# 📊 Sistema de Validação Bancária com Tabela Verdade
+# Sistema de Validação Bancária com Tabela Verdade
 
 Projeto desenvolvido em Python para demonstração prática do conceito de **Lógica Proposicional**, na construção de uma **Tabela Verdade Completa** com 8 combinações ($2^3$).
 
-## 🔒 Variáveis Proposicionais e Regra de Negócio
+## 🔒 Variáveis Proposicionais e Regras
 
 O algoritmo mapeia três condições de segurança e validação de dados:
 *   **P (Maioridade):** O cliente possui idade igual ou superior a 18 anos?
@@ -14,5 +14,5 @@ A regra determina que **SE** o cliente é maior de idade **E** possui biometria 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-*   **Python 3** (Sem dependências ou bibliotecas externas para automação)
-*  
+*   **Python 3** 
+*  Para esse projeto, ao invés do uso da ferramenta `itertools` para automação da combinação das variáveis `P` `Q` `R`, optei pelo uso manual de **loops** `for`... `in`
