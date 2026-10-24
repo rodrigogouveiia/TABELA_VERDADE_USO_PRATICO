@@ -1,7 +1,7 @@
 # PARTE 1 
 # CADASTRO E VALIDAÇÃO DOS DADOS (ENTRADA DO USUÁRIO)
 
-print("====INSTALAÇÃO DO SISTEMA DE VIALIDAÇÃO BANCÁRIA====")
+print("====INSTALAÇÃO DO SISTEMA DE VALIDAÇÃO BANCÁRIA====")
 P_user = idade_do_cliente= int(input("Digite sua idade: "))
 Q_user = biometria_valida= input("A biometria facil foi aprovada? (S/N): ").upper() == 'S'
 # =='S' pega a resposta digitada (S/N) e testa se é igual a 'S' (True). Qualquer resposta contrária a 'S' é transformada em False e guardada na variável.  
