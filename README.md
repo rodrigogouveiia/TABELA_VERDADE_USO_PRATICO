@@ -13,6 +13,9 @@ A regra determina que **SE** o cliente é maior de idade **E** possui biometria 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 *   **Python 3** 
 *  Para esse projeto, ao invés do uso da ferramenta `itertools` para automação da combinação das variáveis `P` `Q` `R`, optei pelo uso manual de **loops** `for`... `in`
+
+## Saída do Terminal
+<img width="772" height="287" alt="Screenshot_1" src="https://github.com/user-attachments/assets/ce9d0d5e-dda0-433b-aa11-31fd0ad45d3d" />
