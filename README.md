@@ -1,6 +1,6 @@
 # Sistema de Validação Bancária com Tabela Verdade
 
-Projeto desenvolvido em Python para demonstração prática do conceito de **Lógica Proposicional**, na construção de uma **Tabela Verdade Completa** com 8 combinações ($2^3$).
+Projeto desenvolvido em Python para demonstração prática do conceito de **Lógica Proposicional**, na construção de uma **Tabela Verdade Completa** com 8 combinações `P``Q``R`($2^3$).
 
 ## 🔒 Variáveis Proposicionais e Regras
 
